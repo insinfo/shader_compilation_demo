@@ -3,6 +3,8 @@
 ![Alt Text](https://github.com/insinfo/shader_compilation_demo/blob/main/Shader_compilation_error.gif)
 
 
-![Alt Text](https://github.com/insinfo/shader_compilation_demo/blob/main/Shader_compilation_error.gif)](https://www.youtube.com/watch?v=6QCl588h1-0&ab_channel=IsaqueNeves)
+[![IMAGE ALT TEXT](https://github.com/insinfo/shader_compilation_demo/blob/main/Shader_compilation_error.gif)](https://www.youtube.com/watch?v=6QCl588h1-0&ab_channel=IsaqueNeves)
+
+
 
 
